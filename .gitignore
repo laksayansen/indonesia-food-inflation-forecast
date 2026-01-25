@@ -1,0 +1,16 @@
+# Python 
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data outputs
+data/processed/*
+reports/figures/*
+*.parquet
+
+# Macbook
+.DS_store
+
+# Env
+.venv/
+venv/
