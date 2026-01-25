@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Indonesia Food Inflation Forecast (2020 - 2023)
 
 ## Goal 
@@ -78,3 +77,4 @@ indonesia-food-inflation-forecast/
 1. `01_cleaning_alignment.ipynb` - cleaning & merginf to one monthly rable
 2. `02_eda.ipynb` - trends, volatility, seasonability
 3. `03_modeling.ipynb` - baseline vs regression (lag features), evaluation 
+
