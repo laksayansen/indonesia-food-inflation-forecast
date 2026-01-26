@@ -123,5 +123,3 @@ def calculate_metrics(y_true, y_pred):
         'MAPE': mape,
         'R²': r2
     }
-
-
