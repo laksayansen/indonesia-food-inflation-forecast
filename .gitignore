@@ -5,7 +5,6 @@ __pycache__/
 
 # Data outputs
 data/processed/*
-reports/figures/*
 *.parquet
 
 # Macbook
