@@ -43,12 +43,10 @@ Food price inflation directly impacts:
 | Variable | Description | Source | Period |
 |----------|-------------|--------|--------|
 | **Rice Price** | Local rice (Beras Lokal), IDR/kg | BPS - Singkawang | 2020-2023 |
-| **Egg Price** | Chicken eggs (Telur Ayam Ras), IDR/kg | BPS - Singkawang | 2020-2022* |
+| **Egg Price** | Chicken eggs (Telur Ayam Ras), IDR/kg | BPS - Singkawang | 2020-2023 |
 | **Red Chili Price** | Red chili (Cabai Merah), IDR/kg | BPS - Singkawang | 2020-2023 |
 | **Shallot Price** | Shallots (Bawang Merah), IDR/kg | BPS - Singkawang | 2020-2023 |
 | **Exchange Rate** | USD/IDR | Bank Indonesia | 2020-2023 |
-
-> **Note**: *Egg price data for 2023 was unavailable and handled via forward/backward fill imputation.
 
 > **Important Limitation**: City-level (Singkawang) commodity prices are used as a proxy due to limited availability of consistent national monthly price datasets. This is a common constraint when working with Indonesian public data.
 
