@@ -202,7 +202,7 @@ indonesia-food-inflation-forecast/
 │       ├── model_comparison.png
 │       └── model_prediction_vs_actual.png
 │       └── price_trends.png
-│       └── price_votality.png
+│       └── price_volatility.png
 │       └── residual_analysis.png
 │       └── seasonal_pattern.png
 │       └── usd_idr_trend.png
@@ -240,12 +240,15 @@ indonesia-food-inflation-forecast/
 
 ### Food CPI Trend (2020-2023)
 Clear upward trajectory with moderate volatility, reflecting sustained inflationary pressure.
+![CPI Trend](reports/figures/food_cpi_trend.png)
 
 ### Commodity Price Volatility
 Shallots show highest volatility (17.6% CV), while rice remains relatively stable (10.7% CV).
+![Volatility Trend](reports/figures/price_volatility.png.png)
 
 ### Model Predictions vs Actual
 Linear regression closely tracks actual CPI movements on test set, with residuals centered near zero.
+![Predictions](reports/figures/model_prediction_vs_actual.png)
 
 ### Feature Importance
 CPI lag-1 dominates, followed by CPI lag-2 and log rice price. Ramadan flag shows modest positive coefficient.
