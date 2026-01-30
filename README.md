@@ -244,7 +244,7 @@ Clear upward trajectory with moderate volatility, reflecting sustained inflation
 
 ### Commodity Price Volatility
 Shallots show highest volatility (17.6% CV), while rice remains relatively stable (10.7% CV).
-![Volatility Trend](reports/figures/price_volatility.png.png)
+![Volatility Trend](reports/figures/price_volatility.png)
 
 ### Model Predictions vs Actual
 Linear regression closely tracks actual CPI movements on test set, with residuals centered near zero.
