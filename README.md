@@ -138,7 +138,6 @@ Features created include:
 
 - **Limited temporal coverage:** Only 48 months of data (2020-2023) restricts the model's ability to capture long-term cycles or rare events.
 - **Geographic proxy:** Singkawang city prices are used as a national proxy due to unavailability of consistent national-level monthly commodity prices from BPS.
-- **Missing data:** Egg prices for 2023 were unavailable and handled via forward/backward fill imputation, introducing potential bias.
 - **Linear assumptions:** The model assumes linear relationships between predictors and food CPI; non-linear dynamics (e.g., supply shocks) may not be fully captured.
 - **External factors excluded:** Weather/climate data, global commodity prices, and policy changes (subsidies, tariffs) are not included in the model.
 - **Behavioral churn not modeled:** Unlike subscription-based churn, inflation dynamics reflect continuous economic processes rather than discrete user events.
